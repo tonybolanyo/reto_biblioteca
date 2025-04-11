@@ -157,4 +157,4 @@ Introduce el nombre del usuario: Juan Pérez
 
 El objetivo es aplicar todo lo aprendido durante este curso: clases, funciones, bucles, manejo de excepciones, entrada/salida por consola y persistencia con SQLite3.
 
-¡Buena suerte! Don Manuel confía en ti para modernizar su biblioteca 😊
+¡Buena suerte! Ada confía en ti para modernizar su biblioteca 😊
