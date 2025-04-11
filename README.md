@@ -1,12 +1,14 @@
 # Reto: Biblioteca
 
-## **Reto: El sistema de gestión de la biblioteca de Alguazas**
+## **Reto: La Biblioteca del Sabio Codificador**
 
-Bienvenido al reto final de este curso básico de programación en Python. En este ejercicio, te convertirás en el desarrollador principal del sistema de gestión de una pequeña biblioteca en Alguazas, Región de Murcia. La biblioteca necesita un programa que permita a los bibliotecarios gestionar los libros y registrar los préstamos de los usuarios. ¡Es tu momento para brillar!
+Te doy la bienvenida a este reto de programación en Python. En este ejercicio, te convertirás en la persona principal del equipo de desarrollo del sistema de gestión de una pequeña biblioteca. La biblioteca necesita un programa que permita a los bibliotecarios gestionar los libros y registrar los préstamos de los usuarios. ¡Es tu momento para brillar!
 
 ### **Historia**
 
-La Biblioteca Municipal de Alguazas ha estado utilizando un sistema manual para llevar el registro de sus libros y préstamos, pero ahora quieren modernizarse. Han contratado tus servicios para desarrollar un programa que les permita:
+En un pequeño pueblo llamado **Algoritmia**, existe una biblioteca muy especial conocida como **"La Biblioteca del Sabio Codificador"**. Esta biblioteca guarda libros mágicos que contienen secretos ancestrales sobre la programación y el desarrollo de software. Sin embargo, el bibliotecario que la gestionaba ha decidido retirarse, y ahora necesitan un sistema moderno para organizar los libros y ayudar a los habitantes del pueblo a acceder a ellos.
+
+Tu misión es crear un **programa en Python** que gestione esta biblioteca. El sistema debe permitir:
 
 1. Registrar nuevos libros en su inventario.
 2. Consultar la lista de libros disponibles.
@@ -14,7 +16,7 @@ La Biblioteca Municipal de Alguazas ha estado utilizando un sistema manual para 
 4. Devolver libros prestados.
 5. Guardar toda la información en una base de datos para que no se pierda al cerrar el programa.
 
-El bibliotecario principal, Don Manuel, está muy emocionado por ver cómo tu programa hará su trabajo más fácil.
+La bibliotecaria principal, Ada Scriptoria, está muy emocionada por ver cómo tu programa hará su trabajo más fácil.
 
 ---
 
@@ -103,7 +105,7 @@ El programa debe manejar excepciones básicas, como:
 ### **Ejemplo del flujo del programa**
 
 ```plaintext
-¡Bienvenido al sistema de gestión de la Biblioteca Municipal de Alguazas!
+¡Bienvenido a La Biblioteca del Sabio Codificador!
 
 Menú principal:
 1. Registrar un nuevo libro
