@@ -197,7 +197,7 @@ def main():
     """
     biblioteca = Biblioteca()  # Crea una instancia de Biblioteca
 
-    print("¡Bienvenido al sistema de gestión de la Biblioteca Municipal de Alguazas!")
+    print("¡Bienvenido a La Biblioteca del Sabio Codificador!")
 
     continuar = True
     while continuar:
